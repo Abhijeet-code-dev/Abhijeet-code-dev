@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhijeet Kaur
-- 👀 I’m interested in Full Stack Development
+
 - 
 
 <!---
